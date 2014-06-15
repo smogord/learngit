@@ -1,4 +1,4 @@
-1 linia A
+1 linia A2
 1.5 linia A
 2 linia A2
 3 linia A2B2
