@@ -2,4 +2,4 @@
 1.5 linia A
 2 linia A2
 3 linia A2B2
-4 linia A
+4 linia A2
