@@ -1,3 +1,3 @@
 1 linia A
 2 linia A2
-3 linia A 
+3 linia A2
